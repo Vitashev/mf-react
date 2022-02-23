@@ -1,4 +1,9 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "remote": "apps/remote",
+    "remote-e2e": "apps/remote-e2e",
+    "shell": "apps/shell",
+    "shell-e2e": "apps/shell-e2e"
+  }
 }
